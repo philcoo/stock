@@ -14,6 +14,10 @@ response = HTTParty.get(url)
 p dom.css("span#ref_22144_l").children.text
 # puts pa.n"content"
 
+<<<<<<< HEAD
 
 
 # check what i have done.
+=======
+#Karen was here!!!!!!!!!!
+>>>>>>> 919fc7d54caf800e9f099b61d9b878069c9d1efc
